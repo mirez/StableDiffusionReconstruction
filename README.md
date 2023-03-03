@@ -15,4 +15,5 @@ Reconstructing visual experiences from human brain activity offers a unique way 
 # Others
 Coming soon
 
-# Accessed 2023-03-03
+# Accessed
+2023-03-03
